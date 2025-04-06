@@ -1,6 +1,6 @@
 #!/bin/bash
-for i in {1..5}; do
-  echo -e "\e[32m  [+]   Starting...\e[0m"
+for i in {1..8}; do
+  echo -e "\e[32m  [+]   Starting AnassRedTool tool...\e[0m"
   sleep 1
 done
 cd "$(dirname "$0")"
