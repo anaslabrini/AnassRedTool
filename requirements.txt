@@ -1,0 +1,8 @@
+rich
+pyfiglet
+paramiko
+fpdf
+requests
+mysql-connector-python
+dnspython
+python-whois
