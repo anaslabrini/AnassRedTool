@@ -86,4 +86,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 **Anas Labrini**  
 📍 Salé, Morocco  
-📧 hackthebox.time@gmail.com (replace with your real or dev email if you want)
+📧 hackthebox.time@gmail.com
